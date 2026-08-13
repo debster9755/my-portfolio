@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://debayan-product-portfolio.pages.dev"),
+  metadataBase: new URL("https://debayan-roy-product-portfolio.debayan2k.chatgpt.site"),
   title: {
     default: "Debayan Roy — Product & Technical Leadership",
     template: "%s · Debayan Roy",
