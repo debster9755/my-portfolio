@@ -266,7 +266,7 @@ export default function Home() {
                 </p>
                 <div className="btn-row">
                   <a className="btn btn-primary" href="#enterprise-products">Explore case studies <IconDown /></a>
-                  <a className="btn btn-ghost" href="https://www.linkedin.com/in/debayan-roy" target="_blank" rel="noreferrer">LinkedIn <IconArrow /></a>
+                  <a className="btn btn-ghost" href="https://www.linkedin.com/in/debroy5/" target="_blank" rel="noreferrer">LinkedIn <IconArrow /></a>
                 </div>
                 <div className="tile-row">
                   <div className="tile"><span>Scope</span><strong>Enterprise + AI</strong><small className="is-muted">Strategy through delivery</small></div>
@@ -516,7 +516,7 @@ export default function Home() {
                 <p>Currently based in Bengaluru, India. Open to senior product and technical leadership roles, advisory work and focused product strategy engagements.</p>
                 <div className="contact-links">
                   <a className="btn btn-primary" href="mailto:debayan2k@gmail.com">Email <IconMail /></a>
-                  <a className="btn btn-ghost" href="https://www.linkedin.com/in/debayan-roy" target="_blank" rel="noreferrer">LinkedIn <IconArrow /></a>
+                  <a className="btn btn-ghost" href="https://www.linkedin.com/in/debroy5/" target="_blank" rel="noreferrer">LinkedIn <IconArrow /></a>
                   <a className="btn btn-ghost" href="https://github.com/debster9755" target="_blank" rel="noreferrer">GitHub <IconArrow /></a>
                 </div>
               </div>
@@ -550,7 +550,7 @@ export default function Home() {
                 </div>
                 <div className="btn-row" style={{ marginTop: 0 }}>
                   <a className="btn btn-primary btn-block" href="mailto:debayan2k@gmail.com">Email <IconMail /></a>
-                  <a className="btn btn-ghost btn-block" href="https://www.linkedin.com/in/debayan-roy" target="_blank" rel="noreferrer">LinkedIn <IconArrow /></a>
+                  <a className="btn btn-ghost btn-block" href="https://www.linkedin.com/in/debroy5/" target="_blank" rel="noreferrer">LinkedIn <IconArrow /></a>
                 </div>
               </div>
             </section>
